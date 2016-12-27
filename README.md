@@ -1,6 +1,6 @@
 goaccess-docker
 ===============
-[![license](https://img.shields.io/github/license/siwatpru/goaccess.svg?style=flat-square)]() [![Docker Stars](https://img.shields.io/docker/stars/siwatp/goaccess.svg?style=flat-square)]() [![Docker Pulls](https://img.shields.io/docker/pulls/siwatp/goaccess.svg?style=flat-square)]()
+[![license](https://img.shields.io/github/license/siwatpru/goaccess-docker.svg?style=flat-square)]() [![Docker Stars](https://img.shields.io/docker/stars/siwatp/goaccess.svg?style=flat-square)]() [![Docker Pulls](https://img.shields.io/docker/pulls/siwatp/goaccess.svg?style=flat-square)]()
 
 A GoAccess docker image based on Alpine Linux image
 
