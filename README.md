@@ -1,10 +1,10 @@
 goaccess-docker
 ===============
+
 [![license](https://img.shields.io/github/license/siwatpru/goaccess-docker.svg?style=flat-square)]() [![Docker Stars](https://img.shields.io/docker/stars/siwatp/goaccess.svg?style=flat-square)]() [![Docker Pulls](https://img.shields.io/docker/pulls/siwatp/goaccess.svg?style=flat-square)]()
 
-A GoAccess docker image based on Alpine Linux image
-
-> GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. It provides fast and valuable HTTP statistics for system administrators that require a visual server report on the fly.
+# DEPRECATED!!
+Goaccess 1.2 comes with docker support. See https://hub.docker.com/r/allinurl/goaccess
 
 ## Supported tags
 - 1.1.1, latest
